@@ -83,7 +83,7 @@ npm run preview
 
 ## 📦 Deployment
 
-This project will be deployed via **GitHub Pages**. *(Live link coming soon!)*
+This project will be deployed via **GitHub Pages**. *[Live link](https://ashutosht0210.github.io/UI-Practice-Project/)*
 
 ## 📚 What I Practiced
 
